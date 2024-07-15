@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.89-alpha">
+  <PropertyGroup>
+    <!--Command to run on project build-->
+    <BuildCommand>
+    </BuildCommand>
+    <!--Command to run on project clean-->
+    <CleanCommand>
+    </CleanCommand>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="C:\Users\viknesh\Desktop\TRIAL1.js">
+      <Link>TRIAL1.js</Link>
+    </None>
+    <None Include="C:\Users\viknesh\Desktop\FYP%28Final%29.js">
+      <Link>FYP%28Final%29.js</Link>
+    </None>
+  </ItemGroup>
+</Project>
